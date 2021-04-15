@@ -165,6 +165,7 @@ using 3 features - Energy, Danceability and Loudness. And then I added the clust
 
 ### Simple Content-Based Song Recommender
 [![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/jithendrabsy/Side-Projects/blob/main/mini-projects/when-music-meets-datascience/songs-recommender/recommender.ipynb)
+
 There are several approaches to build such systems and one of them is Content-Based approach. This notebook demonstrates a simple
 content-based recommendation for songs.
 
