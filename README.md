@@ -1,6 +1,6 @@
 # Jithendra's Data Science Portfolio
 
-Compilation of notebooks and projects which I created in my learning journey of data analysis and exploration of machine learning concepts.
+Here is an exhaustive list of my projects -
 
 ## Stand-alone projects
 
