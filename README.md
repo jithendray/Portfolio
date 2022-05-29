@@ -82,7 +82,7 @@ Eploratory Data Analysis on the data to get some insights on MS admissions. I us
 ## Time Series Problems
 
 ### Forecasting Air pollution
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jithendrabsy/mini-projects/tree/main/forecasting-air-pollution)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jithendrabsy/forecasting-air-pollution)
 
 In this project, I explored various models for forecasting time series. I then compared the performance of the models over two different metrics.
 I forecasted the amount of pollution in air based on the historical pollution data. 
@@ -123,7 +123,7 @@ This is a playground computer vision project where I experimented with Lenet usi
 ## Data Analysis
 
 ### Analysis my personal Spotify streaming history
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/jithendrabsy/mini-projects/blob/main/when-music-meets-datascience/analyzing-my-music-taste-variation/analyzing-variation-in-my-music-taste.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/jithendrabsy/when-music-meets-datascience/analyzing-my-music-taste-variation/analyzing-variation-in-my-music-taste.ipynb)
 
 I know that my music taste changed a lot in past few years, So I wanted to see how it changed over time.
 I collected my streaming history using Spotipy which is a light weight client to extract many features from Spotify's web API.
@@ -131,7 +131,7 @@ I analyzed my spotify streaming history to understand how my music taste is vary
 This helped me to find out my top songs, artists, genres and time I am spending on each of them.
 
 ### Anslysis of my favorite artist's discography
-[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/jithendrabsy/mini-projects/blob/main/when-music-meets-datascience/analyzing-favorite-artists/Tyler-Analysis.ipynb)
+[![nbviewer](https://raw.githubusercontent.com/jupyter/design/master/logos/Badges/nbviewer_badge.svg)](https://nbviewer.jupyter.org/github/jithendrabsy/when-music-meets-datascience/analyzing-favorite-artists/Tyler-Analysis.ipynb)
 
 I analyzed Tyler, the creator's music discography to see how his music varied for every album. This helped me to find - which album is more energetic, which one is more danceable
 and many other cool insights. I repeated the same analysis for "Black Sabbath" too.
@@ -146,7 +146,7 @@ and then analysis. Whatsapp has an option export the chat into .txt file! I used
 ## Unsupervised Problems
 
 ### Clustering songs based on features
-[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jithendrabsy/mini-projects/tree/main/when-music-meets-datascience/clustering-songs-based-on-features)
+[![View on GitHub](https://img.shields.io/badge/GitHub-View_on_GitHub-blue?logo=GitHub)](https://github.com/jithendrabsy/when-music-meets-datascience/clustering-songs-based-on-features)
 
 The goal of this to automatically divide a whole playlist of songs into to different playlists of 
 different moods/features like - energetic songs and relaxing songs! I extracted the whole discography 
